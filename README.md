@@ -35,6 +35,6 @@ The project demonstrates basic programming concepts such as:
 4. Open the `main.ipynb` notebook in Jupyter Notebook.
 5. Run the cells in the notebook sequentially to interact with the application.
 
-**Authors**  
+## Authors
 - Cheah Wan Xin 
 - Anusyalinie Jayaraman 

@@ -27,12 +27,14 @@ The project demonstrates basic programming concepts such as:
 5. **Invoice:** The app generates a final invoice with all the order details.
 
 ## Getting Started  
-1. Clone or download the project.  
-2. Run the script:  
+1. Clone or download the project files to your local machine.
+2. Open a terminal or command prompt and navigate to the folder containing the `.ipynb` file.
+3. Launch Jupyter Notebook by running:
    ```bash
-   python cosmetics_store.py
-3. Follow the on-screen prompts to place an order.
+   jupyter notebook
+4. Open the `main.ipynb notebook` in Jupyter Notebook.
+5. Run the cells in the notebook sequentially to interact with the application.
 
 **Authors**  
-- Cheah Wan Xin (B2101241)  
-- Anusyalinie A/P Jayaraman (B2101087)
+- Cheah Wan Xin 
+- Anusyalinie Jayaraman 

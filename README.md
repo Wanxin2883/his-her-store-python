@@ -32,7 +32,7 @@ The project demonstrates basic programming concepts such as:
 3. Launch Jupyter Notebook by running:
    ```bash
    jupyter notebook
-4. Open the `main.ipynb notebook` in Jupyter Notebook.
+4. Open the `main.ipynb` notebook in Jupyter Notebook.
 5. Run the cells in the notebook sequentially to interact with the application.
 
 **Authors**  

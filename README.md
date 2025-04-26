@@ -36,5 +36,4 @@ The project demonstrates basic programming concepts such as:
 5. Run the cells in the notebook sequentially to interact with the application.
 
 ## Authors
-- Cheah Wan Xin 
-- Anusyalinie Jayaraman 
+Created by Cheah Wan Xin & Anusyalinie Jayaraman for 

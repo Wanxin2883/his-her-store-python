@@ -36,4 +36,4 @@ The project demonstrates basic programming concepts such as:
 5. Run the cells in the notebook sequentially to interact with the application.
 
 ## Authors
-Created by Cheah Wan Xin & Anusyalinie Jayaraman for 
+Created by **Cheah Wan Xin & Anusyalinie Jayaraman** for learning purposes and showcasing basic programming concepts in Python.
